@@ -1,0 +1,6 @@
+user1,100,resource-1
+user2,200,resource-1
+user3,500,resource-1
+user1,100,resource-1
+user1,800,resource-1
+user2,300,resource-1
